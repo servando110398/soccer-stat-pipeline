@@ -1,0 +1,1 @@
+  42027       27:37 python ingest_understat_soccer_data.py
